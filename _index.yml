@@ -1,0 +1,40 @@
+---
+product-family:
+  title: StorageGRID 文档
+  lead: NetApp StorageGRID 是一款软件定义的对象存储套件、支持公共、私有和混合多云环境中的各种用例。StorageGRID 为Amazon
+    S3 API提供本机支持、并提供行业领先的创新技术、例如自动化生命周期管理、以便长期经济高效地存储、保护和保留非结构化数据。
+  summary: NetApp StorageGRID 是一款软件定义的对象存储套件、支持公共、私有和混合多云环境中的各种用例。StorageGRID 为Amazon
+    S3 API提供本机支持、并提供行业领先的创新技术、例如自动化生命周期管理、以便长期经济高效地存储、保护和保留非结构化数据。
+  sidebarlinks:
+  - title: 全部
+    tags: all
+    class: active
+  - title: 入门
+    tags: get_started
+  - title: 配置和使用软件
+    tags: storagegrid
+  - title: 安装和维护设备
+    tags: appliances
+  - title: 集成和启用
+    tags: enable
+  tiles:
+  - title: 了解StorageGRID
+    icon: "./media/groups_line.png"
+    url: intro-family.html
+    summary: 了解StorageGRID。
+    tags: all, get_started, storagegrid, appliances, enable
+  - title: StorageGRID 1.18文档
+    icon: "./media/config_line.png"
+    url: "../storagegrid-118/index.html"
+    summary: 配置和使用StorageGRID 1.18软件。
+    tags: all, storagegrid
+  - title: StorageGRID设备
+    icon: "./media/icon-onprem.png"
+    url: "../storagegrid-appliances/index.html"
+    summary: 安装和维护StorageGRID设备。
+    tags: all, appliances
+  - title: 启用StorageGRID
+    icon: "./media/synergy.png"
+    url: "../storagegrid-enable/index.html"
+    summary: 测试、集成和启用StorageGRID。
+    tags: all, enable

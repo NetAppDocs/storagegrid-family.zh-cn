@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="8727881150b0ace8b598a648cdfcd4e1" category="summary">NetApp StorageGRID 是一款软件定义的对象存储套件、支持公共、私有和混合多云环境中的各种用例。StorageGRID 为Amazon S3 API提供本机支持、并提供行业领先的创新技术、例如自动化生命周期管理、以便长期经济高效地存储、保护和保留非结构化数据。</block>
+  <block id="4a4dbf02e8eff8088b2776662f9d29f0" category="doc">了解StorageGRID</block>
+  <block id="4103efcb405cc1121103531bf09c715d" category="paragraph">StorageGRID 可为大规模非结构化数据提供安全，持久的存储。元数据驱动的集成生命周期管理策略可优化数据在整个生命周期中的位置。将内容放置在合适的位置，合适的时间和合适的存储层上，以降低成本。</block>
+  <block id="2ba3c537f55a653f682dcc17939b5db3" category="paragraph">StorageGRID 由分布在不同地理位置的冗余异构节点组成，这些节点可以与现有客户端应用程序和下一代客户端应用程序集成在一起。</block>
+  <block id="8eec3f2e5c96b2a164209e8f32f4ee0f" category="section-title">StorageGRID 的优势</block>
+  <block id="71f7459e7e82312f4969ac698c7c0434" category="paragraph">StorageGRID 系统的优势包括：</block>
+  <block id="9bcc6b6f2deb9d2acce755b03630840c" category="list-text">一个地理位置分散的非结构化数据存储库，具有大规模可扩展性和易用性。</block>
+  <block id="18bde5c8ee320ea49ba70e35d2239ecf" category="list-text">支持Amazon Web Services Simple Storage Service (S3)协议</block>
+  <block id="4bf292ec47b1a0a2f20bd493ae425806" category="list-text">已启用混合云。基于策略的信息生命周期管理（ ILM ）可将对象存储到公有 云，包括 Amazon Web Services （ AWS ）和 Microsoft Azure 。StorageGRID 平台服务支持对存储到公有 云的对象进行内容复制，事件通知和元数据搜索。</block>
+  <block id="84b564142dcdb248382f6f1fe90469d7" category="list-text">灵活的数据保护，可确保持久性和可用性。可以使用复制和分层纠删编码来保护数据。空闲和正在运行的数据验证可确保完整性，确保长期保留。</block>
+  <block id="0eb71cf924e8b745d26e24ae56842668" category="list-text">动态数据生命周期管理，有助于管理存储成本。您可以创建在对象级别管理数据生命周期的 ILM 规则，并自定义数据位置，持久性，性能，成本和保留时间。</block>
+  <block id="3d0aaecf6c69886c98a934f5e49f3aee" category="list-text">数据存储和某些管理功能的高可用性，以及集成的负载平衡功能，可优化 StorageGRID 资源中的数据负载。</block>
+  <block id="9b0066a52d6f53e528fce2d8015f066d" category="list-text">支持多个存储租户帐户，以便按不同实体隔离系统上存储的对象。</block>
+  <block id="df8042c3830b9439a1beebda75833c9e" category="list-text">用于监控 StorageGRID 系统运行状况的众多工具，包括全面的警报系统，图形信息板以及所有节点和站点的详细状态。</block>
+  <block id="4461fae15f93d7f72cba9bb983bb2e76" category="list-text">支持基于软件或硬件的部署。您可以在以下任意位置部署 StorageGRID ：</block>
+  <block id="fd1b7d8d664417ae1c96d195b510f2fa" category="list-text">在 VMware 中运行的虚拟机。</block>
+  <block id="e154947a79b58797a4247b5e06dc6f4c" category="list-text">Linux 主机上的容器引擎。</block>
+  <block id="81863930b2fb941308d892d4cfc05ad9" category="list-text">StorageGRID 工程设备。</block>
+  <block id="ff7d8c2459b9fb9bc54977cc7e972341" category="list-text">存储设备提供对象存储。</block>
+  <block id="54f698e9a60d165d4a08621f71cec95c" category="list-text">服务设备可提供网格管理和负载平衡服务。</block>
+  <block id="a42eb347271e6ed1c2ac1d09aa48cd36" category="list-text">符合以下法规的相关存储要求：</block>
+  <block id="6b8d5cabd694cc1228952d1a9e86217b" category="list-text">《证券和交易委员会（ SEC ）》，采用 17 § 240.17a-4 （ f ），用于监管交易所成员，代理或交易商。</block>
+  <block id="e76583d116c000732e95998e3cd69d56" category="list-text">金融行业监管局（ FINRA ）规则 4511 （ c ），该规则符合 SEC 规则 17a-4 （ f ）的格式和介质要求。</block>
+  <block id="14c8ef59a622fc7a7db7883604504c4d" category="list-text">商品期货交易委员会（ CFTC ）在监管商品期货交易的第 17 条 CFR § 1.31 （ c ） - （ d ）条中进行了规定。</block>
+  <block id="b084a731794587a11af81afbc77326a5" category="list-text">无中断升级和维护操作。在升级，扩展，停用和维护过程中保持对内容的访问。</block>
+  <block id="0efa1e4882326f4a16d4e2d9f490a268" category="list-text">联合身份管理。与 Active Directory ， OpenLDAP 或 Oracle Directory Service 集成以进行用户身份验证。支持使用安全断言标记语言 2.0 （ SAML 2.0 ）标准的单点登录（ SSO ），以便在 StorageGRID 和 Active Directory 联合身份验证服务（ AD FS ）之间交换身份验证和授权数据。</block>
+  <block id="2d4f4568ad652ff08727bc044f1373cc" category="section-title">StorageGRID 软件</block>
+  <block id="30be66bcfef2e328f8fadba5f17d7d53" category="inline-link">StorageGRID 11.8.</block>
+  <block id="791d2160592b03552a353b3c990254af" category="list-text"><block ref="791d2160592b03552a353b3c990254af" category="inline-link-rx"></block></block>
+  <block id="0d88061b25d41ea9ebd2a838d2e7d97c" category="inline-link">StorageGRID 11.7文档</block>
+  <block id="23ba15311ab61c5cbe711a6e2af03fb8" category="list-text"><block ref="23ba15311ab61c5cbe711a6e2af03fb8" category="inline-link-rx"></block></block>
+  <block id="d230fedbcdb888124f0cd7c7b8424de2" category="inline-link">StorageGRID 11.6.</block>
+  <block id="361b412f71e99d816037ef3fa0afc82e" category="list-text"><block ref="361b412f71e99d816037ef3fa0afc82e" category="inline-link-rx"></block></block>
+  <block id="ab398ea621033d0dc867640f4114bddd" category="inline-link">StorageGRID 11.5文档</block>
+  <block id="f1ab3ca97f008a1135bcf43e6777236b" category="list-text"><block ref="f1ab3ca97f008a1135bcf43e6777236b" category="inline-link-rx"></block></block>
+  <block id="cdf357067f64d280c93a14932a48e892" category="inline-link">StorageGRID 11.4文档</block>
+  <block id="e57f93d05d4a3ec00b3bc61307781a1c" category="list-text"><block ref="e57f93d05d4a3ec00b3bc61307781a1c" category="inline-link-rx"></block></block>
+  <block id="9283e244bcd98f1bdd350c1b4f2da148" category="section-title">StorageGRID设备</block>
+  <block id="3ac6c44d69f35b6d74f7324d21a94cc3" category="list-text"><block ref="3ac6c44d69f35b6d74f7324d21a94cc3" category="inline-link-rx"></block></block>
+  <block id="696ea9ebe2a9f57bb062aba5c1d58b10" category="section-title">如何在您的环境中启用StorageGRID</block>
+  <block id="fa7f52ddda62fe1d2363b41a26e0b3d7" category="paragraph">转至<block ref="0e0fa9204b8188a393de62aba466cfd2" category="inline-link-rx"></block> 了解如何在StorageGRID 环境中测试和启用应用程序。</block>
+  <block id="73d37b18fd6bead589b7f5fbc79b27fe" category="paragraph">storagegrid－enable *文档站点提供了一些示例和指南，这些示例和指南对本站点的产品文档进行了扩展，并介绍了评估和与StorageGRID 集成的一些后续步骤。</block>
+  <block id="184be814f5401398fdf0f1ce3a702551" category="paragraph">其中一些信息包括：</block>
+  <block id="524a8f1f430dca0d85bebbcd3c376862" category="list-text">列出了过去和当前StorageGRID 版本中经过验证的第三方解决方案。</block>
+  <block id="8dfc12a5cc6be10182743183e843c496" category="list-text">产品功能指南。例如、这些指南提供了创建云存储池所需的所有信息。</block>
+  <block id="1d633b4a689ee09de3a2f149c37d8cbe" category="list-text">工具和应用程序指南。</block>
+  <block id="e2ac36e2f684920c9531933bf719a29d" category="list-text">使用S3加密和S3对象锁定等StorageGRID 功能的API示例。</block>
+  <block id="3778f3873debfe11e2ace6bb6af1e417" category="sidebar">StorageGRID 文档</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">入门</block>
+  <block id="5a76b3354641a0ee1eafa565566eb40c" category="sidebar">配置和使用软件</block>
+  <block id="54443d07c5144ff60a6d1b392bfa38ab" category="sidebar">安装和维护设备</block>
+  <block id="70f6d24bd76769700db7148daa023203" category="sidebar">集成和启用</block>
+  <block id="f28dd420a905feeaad6af72f8f14c37a" category="sidebar">了解StorageGRID。</block>
+  <block id="7bb5d1e21ca0bacc168d63d7155d3755" category="sidebar">StorageGRID 1.18文档</block>
+  <block id="b94aedd414153a7e1052ca7ea0520bb9" category="sidebar">配置和使用StorageGRID 1.18软件。</block>
+  <block id="712e6d735bf838e66fe9802328c8678c" category="sidebar">安装和维护StorageGRID设备。</block>
+  <block id="09f63f5e49731771c9b8f2aea5094d6c" category="sidebar">启用StorageGRID</block>
+  <block id="bf71942427df023dd78c7339d32c9019" category="sidebar">测试、集成和启用StorageGRID。</block>
+  <block id="4513d952ab095f79bf0ba9f1fbf61b7e" category="sidebar">StorageGRID产品文档</block>
+</blocks>
