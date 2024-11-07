@@ -21,10 +21,10 @@ StorageGRID 由分布在不同地理位置的冗余异构节点组成，这些�
 
 == StorageGRID 的优势
 
-StorageGRID 系统的优势包括：
+StorageGRID系统的优势包括：
 
-* 一个地理位置分散的非结构化数据存储库，具有大规模可扩展性和易用性。
-* 支持Amazon Web Services Simple Storage Service (S3)协议
+* 适用于非结构化数据的大规模可扩展且易于使用的地理分布式数据存储库。
+* 支持Amazon Web Services Simple Storage Service (S3)协议。
 * 已启用混合云。基于策略的信息生命周期管理（ ILM ）可将对象存储到公有 云，包括 Amazon Web Services （ AWS ）和 Microsoft Azure 。StorageGRID 平台服务支持对存储到公有 云的对象进行内容复制，事件通知和元数据搜索。
 * 灵活的数据保护，可确保持久性和可用性。可以使用复制和分层纠删编码来保护数据。空闲和正在运行的数据验证可确保完整性，确保长期保留。
 * 动态数据生命周期管理，有助于管理存储成本。您可以创建在对象级别管理数据生命周期的 ILM 规则，并自定义数据位置，持久性，性能，成本和保留时间。
@@ -56,20 +56,21 @@ StorageGRID 系统的优势包括：
 
 
 
-== StorageGRID 软件
+== StorageGRID 文档
 
-* https://docs.netapp.com/us-en/storagegrid-118/["StorageGRID 11.8."^]
-* https://docs.netapp.com/us-en/storagegrid-117/["StorageGRID 11.7文档"^]
-* https://docs.netapp.com/us-en/storagegrid-116/["StorageGRID 11.6."^]
-* https://docs.netapp.com/us-en/storagegrid-115/["StorageGRID 11.5文档"^]
-* https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=61023["StorageGRID 11.4文档"^]
+* https://docs.netapp.com/us-en/storagegrid/["StorageGRID软件文档站点"^]
+* https://docs.netapp.com/us-en/storagegrid-appliances/["StorageGRID设备文档站点"^]
 
 
+您可以在此处找到有关早期版本的StorageGRID软件的文档：
 
-
-== StorageGRID设备
-
-* https://docs.netapp.com/us-en/storagegrid-appliances/["StorageGRID设备"^]
+* https://docs.netapp.com/us-en/storagegrid-118/index.html["StorageGRID 1.18文档"^]
+* https://docs.netapp.com/us-en/storagegrid-117/index.html["StorageGRID 11.7文档"^]
+* https://docs.netapp.com/us-en/storagegrid-116/index.html["StorageGRID 11.5文档"^]
+* https://docs.netapp.com/us-en/storagegrid-115/index.html["StorageGRID 11.5文档"^]
+* https://docs.netapp.com/sgws-114/index.jsp["StorageGRID 11.4 文档中心"^]
+* https://docs.netapp.com/sgws-113/index.jsp["StorageGRID 11.3 文档中心"^]
+* https://docs.netapp.com/sgws-112/index.jsp["StorageGRID 11.2 文档中心"^]
 
 
 

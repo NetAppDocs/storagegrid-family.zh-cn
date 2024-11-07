@@ -21,12 +21,12 @@ product-family:
   - title: 了解StorageGRID
     icon: "./media/groups_line.png"
     url: intro-family.html
-    summary: 了解StorageGRID。
+    summary: 了解StorageGRID并访问早期StorageGRID版本的文档。
     tags: all, get_started, storagegrid, appliances, enable
-  - title: StorageGRID 1.18文档
+  - title: StorageGRID 文档
     icon: "./media/config_line.png"
-    url: "../storagegrid-118/index.html"
-    summary: 配置和使用StorageGRID 1.18软件。
+    url: "../storagegrid/index.html"
+    summary: 安装、配置和维护最新的StorageGRID软件。
     tags: all, storagegrid
   - title: StorageGRID设备
     icon: "./media/icon-onprem.png"
