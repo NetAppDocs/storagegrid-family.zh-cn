@@ -56,11 +56,11 @@ StorageGRID系统的优势包括：
 
 
 
-== 如何在您的环境中启用StorageGRID
+== StorageGRID解决方案和资源
 
-转至 https://docs.netapp.com/us-en/storagegrid-enable/index.html["如何在您的环境中启用StorageGRID"^] 了解如何在StorageGRID 环境中测试和启用应用程序。
+前往 https://docs.netapp.com/us-en/storagegrid-enable/index.html["StorageGRID解决方案和资源"^]了解如何在StorageGRID环境中测试和启用应用程序。
 
-storagegrid－enable *文档站点提供了一些示例和指南，这些示例和指南对本站点的产品文档进行了扩展，并介绍了评估和与StorageGRID 集成的一些后续步骤。
+* StorageGRID解决方案和资源* 提供了扩展此站点中的产品文档的示例和手册，并描述了评估和集成StorageGRID 的一些后续步骤。
 
 其中一些信息包括：
 

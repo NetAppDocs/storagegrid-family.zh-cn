@@ -24,9 +24,6 @@
   <block id="b084a731794587a11af81afbc77326a5" category="list-text">无中断升级和维护操作。在升级，扩展，停用和维护过程中保持对内容的访问。</block>
   <block id="0efa1e4882326f4a16d4e2d9f490a268" category="list-text">联合身份管理。与 Active Directory ， OpenLDAP 或 Oracle Directory Service 集成以进行用户身份验证。支持使用安全断言标记语言 2.0 （ SAML 2.0 ）标准的单点登录（ SSO ），以便在 StorageGRID 和 Active Directory 联合身份验证服务（ AD FS ）之间交换身份验证和授权数据。</block>
   <block id="9283e244bcd98f1bdd350c1b4f2da148" category="section-title">StorageGRID设备</block>
-  <block id="696ea9ebe2a9f57bb062aba5c1d58b10" category="section-title">如何在您的环境中启用StorageGRID</block>
-  <block id="fa7f52ddda62fe1d2363b41a26e0b3d7" category="paragraph">转至<block ref="0e0fa9204b8188a393de62aba466cfd2" category="inline-link-rx"></block> 了解如何在StorageGRID 环境中测试和启用应用程序。</block>
-  <block id="73d37b18fd6bead589b7f5fbc79b27fe" category="paragraph">storagegrid－enable *文档站点提供了一些示例和指南，这些示例和指南对本站点的产品文档进行了扩展，并介绍了评估和与StorageGRID 集成的一些后续步骤。</block>
   <block id="184be814f5401398fdf0f1ce3a702551" category="paragraph">其中一些信息包括：</block>
   <block id="524a8f1f430dca0d85bebbcd3c376862" category="list-text">列出了过去和当前StorageGRID 版本中经过验证的第三方解决方案。</block>
   <block id="8dfc12a5cc6be10182743183e843c496" category="list-text">产品功能指南。例如、这些指南提供了创建云存储池所需的所有信息。</block>
@@ -39,7 +36,6 @@
   <block id="54443d07c5144ff60a6d1b392bfa38ab" category="sidebar">安装和维护设备</block>
   <block id="70f6d24bd76769700db7148daa023203" category="sidebar">集成和启用</block>
   <block id="712e6d735bf838e66fe9802328c8678c" category="sidebar">安装和维护StorageGRID设备。</block>
-  <block id="09f63f5e49731771c9b8f2aea5094d6c" category="sidebar">启用StorageGRID</block>
   <block id="bf71942427df023dd78c7339d32c9019" category="sidebar">测试、集成和启用StorageGRID。</block>
   <block id="4513d952ab095f79bf0ba9f1fbf61b7e" category="sidebar">StorageGRID产品文档</block>
   <block id="2903b0229e2eabe7c06f0db799dc3424" category="paragraph">StorageGRID系统的优势包括：</block>
@@ -48,4 +44,7 @@
   <block id="6ba5a3e836a472999763351a7cad7f18" category="sidebar">了解StorageGRID并访问早期StorageGRID版本的文档。</block>
   <block id="e9f9bf9315d711c436dc24b43b0201ea" category="sidebar">安装、配置和维护最新的StorageGRID软件。</block>
   <block id="2d4f4568ad652ff08727bc044f1373cc" category="sidebar">StorageGRID 软件</block>
+  <block id="4acae57d3119f0b81d2bfd14c9585f13" category="section-title">StorageGRID解决方案和资源</block>
+  <block id="7a4f669ff4b9f9df5860c2049386e61b" category="paragraph">前往<block ref="f382e11c205630073ea43ce3c4862094" category="inline-link-rx"></block>了解如何在StorageGRID环境中测试和启用应用程序。</block>
+  <block id="ab1a62ba7061547a3e40c2c2e68d2227" category="paragraph">* StorageGRID解决方案和资源* 提供了扩展此站点中的产品文档的示例和手册，并描述了评估和集成StorageGRID 的一些后续步骤。</block>
 </blocks>
